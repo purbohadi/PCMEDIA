@@ -1,0 +1,20 @@
+1
+8 10
+Jakarta
+Istanbul
+London
+Amsterdam
+Berlin
+Paris
+Barcelona
+Pisa
+Jakarta Amsterdam
+Amsterdam London
+Amsterdam Berlin
+Berlin Pisa
+Berlin Paris
+Paris Barcelona
+Barcelona Pisa
+Pisa London
+London Istanbul
+London Jakarta
